@@ -4,8 +4,8 @@
 
 A Script to build Android App to Hack All WhatsApp Media Files.
 
-![whatsapphack1]()
-![whatsapphack2]()
+![whatsapphack1](https://github.com/cyberlawd/whatsapphack/blob/main/whatsapphack1.png)
+![whatsapphack2](https://github.com/cyberlawd/whatsapphack/blob/main/whatsapphack2.png)
 
 ### If you have questions or need any help, Message me here: [@cyber_lawd](https://t.me/cyber_lawd) 
 
