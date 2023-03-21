@@ -1,13 +1,13 @@
 # WhatsappHack v3.0
 ### 🖼️ WhatsApp Hack / WhatsApp Media Stealer / Andriod Hack  
-### DM For Full WhatsApp messages hacking script, Telegram: https://t.me/cybergeeky
+### DM For Full WhatsApp messages hacking script, Telegram: https://t.me/alphageeky
 
 A Script to build Android App to Hack All WhatsApp Media Files.
 
 ![whatsapphack1](https://github.com/cyberlawd/whatsapphack/blob/main/whatsapphack1.png)
 ![whatsapphack2](https://github.com/cyberlawd/whatsapphack/blob/main/whatsapphack2.png)
 
-### If you have questions or need any help, Message me here: [@cybergeek](https://t.me/cybergeeky) 
+### If you have questions or need any help, Message me here: [@alphageek](https://t.me/alphageeky) 
 
 ###  Features:
 #### Fully Undetectable and Traceable
