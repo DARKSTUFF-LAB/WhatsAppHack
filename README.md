@@ -1,6 +1,6 @@
 # WhatsappHack v3.0
 ### 🖼️ WhatsApp Hack / WhatsApp Media Stealer / Andriod Hack  
-### Email For Full WhatsApp messages hacking script, darkhubgeek@gmail.com
+### Email For Full WhatsApp messages hacking script, darkhubgeek@gmail.com [Telegram]https://t.me/darkhubgeek
 
 A Script to build Android App to Hack All WhatsApp Media Files.
 
